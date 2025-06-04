@@ -60,5 +60,3 @@
 4. Confirm all resources in the Resource Group are deleted.  
 
 ---
-
-*This project is part of my hands-on networking and security labs. For more labs, visit my [GitHub profile](https://github.com/yourusername).*
