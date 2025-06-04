@@ -13,7 +13,7 @@ Information Technology Projects:
 
 2. **Microsoft Azure**
 
--   [Active Directory: Deployment in Azure](./ActiveDirectory/README.md)
+-   [Active Directory: Deployment in Azure](https://github.com/Josalomao/Tech-Portfolio/blob/main/ActiveDirectory/README.md)
 
 -   [NSG Traffic Inspection](./AzureNetworking/NSG-Traffic-Inspection.md)
 <!--
