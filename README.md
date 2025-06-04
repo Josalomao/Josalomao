@@ -3,7 +3,7 @@ Hello, I'm Josias — Growing in Tech | Learning Today, Building Tomorrow
 Information Technology Projects:
 
 1. **osTicket (Help Desk Ticketing System)**
-   - 1.1 osTicket: Prerequisites and Installation ./osTicket/Prerequisites.md 
+   - 1.1 osTicket: Prerequisites and Installation osTicket/Prerequisites.md  
    - 1.2 osTicket: Post-Installation Configuration (./osTicket/PostInstall.md)
    - 1.3 osTicket: Ticket Lifecycle Examples (./osTicket/TicketLifecycle.md)
 
