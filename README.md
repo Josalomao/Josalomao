@@ -3,13 +3,13 @@ Hello, I'm Josias — Growing in Tech | Learning Today, Building Tomorrow
 Information Technology Projects:
 
 1. **osTicket (Help Desk Ticketing System)**
-   - 1.1 osTicket: Prerequisites and Installation
-   - 1.2 osTicket: Post-Installation Configuration
-   - 1.3 osTicket: Ticket Lifecycle Examples
+   - 1.1 osTicket: Prerequisites and Installation (./osTicket/Prerequisites.md)
+   - 1.2 osTicket: Post-Installation Configuration (./osTicket/PostInstall.md)
+   - 1.3 osTicket: Ticket Lifecycle Examples (./osTicket/TicketLifecycle.md)
 
 2. **Microsoft Azure**
-   - 2.1 Configuring On-premises Active Directory within Azure VMs
-   - 2.2 Network Security Groups (NSGs) and Inspecting Network Protocols
+   - 2.1 Configuring On-premises Active Directory within Azure VMs (./ActiveDirectory/README.md)
+   - 2.2 Network Security Groups (NSGs) and Inspecting Network Protocols (./AzureNetworking/NSG-Traffic-Inspection.md)
 <!--
 **Josalomao/Josalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
