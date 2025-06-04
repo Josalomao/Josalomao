@@ -1,5 +1,15 @@
-## Hi there 👋
+Hello, I'm Josias — Growing in Tech | Learning Today, Building Tomorrow
 
+Information Technology Projects:
+
+1. **osTicket (Help Desk Ticketing System)**
+   - 1.1 osTicket: Prerequisites and Installation
+   - 1.2 osTicket: Post-Installation Configuration
+   - 1.3 osTicket: Ticket Lifecycle Examples
+
+2. **Microsoft Azure**
+   - 2.1 Configuring On-premises Active Directory within Azure VMs
+   - 2.2 Network Security Groups (NSGs) and Inspecting Network Protocols
 <!--
 **Josalomao/Josalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
