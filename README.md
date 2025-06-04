@@ -1,4 +1,4 @@
-# Hello, I'm Josias — Growing in Tech | Learning Today, Building Tomorrow
+## Hello, I'm Josias — Growing in Tech | Learning Today, Building Tomorrow
 
 Information Technology Projects:
 
