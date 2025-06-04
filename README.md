@@ -4,16 +4,18 @@ Information Technology Projects:
 
 1. **osTicket (Help Desk Ticketing System)**
 
--1.1 [osTicket: Prerequisites and Installation](./osTicket/Prerequisites.md)
--1.2 [osTicket: Post-Install Configuration](./osTicket/PostInstall.md)
--1.3 [osTicket: Ticket Lifecycle](./osTicket/TicketLifecycle.md)
+-   [osTicket: Prerequisites and Installation](./osTicket/Prerequisites.md)
+
+-   [osTicket: Post-Install Configuration](./osTicket/PostInstall.md)
+
+-   [osTicket: Ticket Lifecycle](./osTicket/TicketLifecycle.md)
 
 
 3. **Microsoft Azure**
 
--1.1 [Active Directory: Deployment in Azure](./ActiveDirectory/README.md)
+-   [Active Directory: Deployment in Azure](./ActiveDirectory/README.md)
 
- -1.2 [NSG Traffic Inspection](./AzureNetworking/NSG-Traffic-Inspection.md)
+-   [NSG Traffic Inspection](./AzureNetworking/NSG-Traffic-Inspection.md)
 <!--
 **Josalomao/Josalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
