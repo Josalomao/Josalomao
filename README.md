@@ -11,7 +11,7 @@ Information Technology Projects:
 -   [osTicket: Ticket Lifecycle](./osTicket/TicketLifecycle.md)
 
 
-3. **Microsoft Azure**
+2. **Microsoft Azure**
 
 -   [Active Directory: Deployment in Azure](./ActiveDirectory/README.md)
 
